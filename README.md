@@ -1,8 +1,8 @@
 # Marmota
 
 ## Introduction
-Marmota is an open source software to help people resolve domain names with his private ip.
-Since private ip's change frequently, once a domain name has been resolved for a while, the ip will change, causing the previous resolution to expired. This progran can help you by automatically updating the latest ip to your domain name after your resolution has failed.
+Marmota is an open source software to help people resolve domain names to his private ip.
+Since private ip's change frequently, once a domain name has been resolved for a period of time, the ip would change to anther one, causing the previous resolution to expired. This progran can help you by automatically updating the latest ip to your domain name after your resolution has failed. by this way, all you need is a domain name and you can always access your home computer, or any other computer that also uses the program
 
 ## Mechanism
 Marmota will access the service which can show back your ip with a fixed frequency, so you can know the latest ip when it has been invalidated for some time. Once your ip is found to have changed, it will use the ability provided by the appropriate provider according to your configuration to update your domain name
