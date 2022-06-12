@@ -11,5 +11,5 @@ Marmota will access the echo service which shows your IP back with a fixed frequ
 One disadvantage of this mechanism is that the service that returns your IP must be available. So this project introduces the mechanism of group verification. It is important to note that once you use the software, it indicates that you are willing to provide the IP echo service to other people who also use this software. So the software the more people use, the more services that can echo IP back, and the ability of this service will be more and more reliable.
 
 ## thanks
-Generally， automatic domain name resolution is depending on the capabilities offered by your domain name provider. We have already made adaptations for some operators, and the more adaptations of the left operators will coming soon.
+Generally， automatic domain name resolution is depending on the capabilities offered by your domain name provider. We have already made adaptations for some operators, and more adaptations for the left operators will come soon.
 
